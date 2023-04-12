@@ -4,7 +4,7 @@ import (
 	"quiz-app/internal/dto"
 	"quiz-app/internal/entities"
 
-	uuid "github.com/satori/go.uuid"
+	uuid "github.com/google/uuid"
 )
 
 type RoleRepository interface {

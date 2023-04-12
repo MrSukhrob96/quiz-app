@@ -1,6 +1,6 @@
 package dto
 
-import uuid "github.com/satori/go.uuid"
+import uuid "github.com/google/uuid"
 
 type CreateUserDTO struct {
 	Name        string     `json:"name"`

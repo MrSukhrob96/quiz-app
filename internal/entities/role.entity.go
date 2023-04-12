@@ -1,7 +1,7 @@
 package entities
 
 import (
-	uuid "github.com/satori/go.uuid"
+	uuid "github.com/google/uuid"
 	"gorm.io/gorm"
 )
 

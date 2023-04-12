@@ -8,10 +8,10 @@ import (
 )
 
 const (
-	DB_HOST = "localhost"
-	DB_USER = "root"
+	DB_HOST = "192.168.10.63"
+	DB_USER = "agent"
 	DB_NAME = "agent_bank"
-	DB_PASS = "root"
+	DB_PASS = "muhammad"
 	DB_PORT = "3306"
 )
 
